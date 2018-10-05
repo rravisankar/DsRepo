@@ -1,2 +1,2 @@
 # DsRepo
-Datascience related projects
+Data Science related projects
